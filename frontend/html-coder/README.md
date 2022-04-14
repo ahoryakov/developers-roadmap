@@ -4,7 +4,7 @@
 - [CSS](./css.md)
 - [Git](./git.md)
 
-# Специфично для нашего стека
+# Специфично для нашей компании
 
 - [Единицы измерения em, rem, vw, vh](https://sborkaproject.getoutline.com/doc/edinicy-izmereniya-em-rem-vw-vh-BdArPC9lEv)
 - [Подключение и оптимизация шрифтов](https://sborkaproject.getoutline.com/doc/podklyuchenie-i-optimizaciya-shriftov-hOT9uskPBC)
