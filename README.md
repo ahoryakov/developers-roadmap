@@ -42,5 +42,24 @@
 * Умеет самостоятельно эффективно разбираться в неизвестных и достаточно объемных областях, применять изученное для решения поставленных проблем там, где это эффективно (например, быстро изучить meteor.js и предложить создавать проект на нем, если он действительно лучше подходит).
 * Умеет давать оценки даже для существенного объема работ, запросить все необходимые требования, доработать их при необходимости, заложить риски.
 
+# Список уровней
+
+1. **HTML-верстальщик**
+    * [html-coder](./html-coder/README.md)
+
+1. **Junior**
+    * [junior-1](./junior-1/README.md)
+    * [junior-2](./junior-2/README.md)
+    * [junior-3](./junior-3/README.md)
+
+1. **Middle**
+    * [middle-1](./middle-1/README.md)
+    * [middle-2](./middle-2/README.md)
+    * [middle-3](./middle-3/README.md)
+    * [middle-4](./middle-4/README.md)
+
+1. **Senior**
+    * [senior](./senior/README.md)
+
 ## Рекомендация
 Советуем для удобного чтения установить расширение [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=ru).
