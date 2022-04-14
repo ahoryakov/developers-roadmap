@@ -1,6 +1,6 @@
 # Список уровней:
 1. **HTML-верстальщик**
-    * [html-coder-1](./html-coder-1/README.md)
+    * [html-coder](./html-coder/README.md)
 
 1. **Junior**
     * [junior-1](./junior-1/README.md)
